@@ -1,0 +1,62 @@
+{
+    "products": [
+        { "id": 1, "name": "Meat", "price": 10, "category": "Food" },
+        { "id": 2, "name": "Salt", "price": 15, "category": "Food" },
+        { "id": 3, "name": "Milk", "price": 20, "category": "Food" },
+        { "id": 4, "name": "Hummer", "price": 10, "category": "Weapon" },
+        { "id": 5, "name": "Sword", "price": 15, "category": "Weapon" },
+        { "id": 6, "name": "Eggs", "price": 20, "category": "Food" },
+        { "id": 7, "name": "Pistol", "price": 10, "category": "Weapon" },
+        { "id": 8, "name": "Knife", "price": 15, "category": "Weapon" },
+        { "id": 9, "name": "Winston", "price": 20, "category": "Cigarette" },
+        {
+            "id": 10,
+            "name": "Golden Virginia",
+            "price": 10,
+            "category": "Cigarette"
+        },
+        {
+            "id": 11,
+            "name": "Philip Morris",
+            "price": 15,
+            "category": "Cigarette"
+        },
+        {
+            "id": 12,
+            "name": "Chesterfield",
+            "price": 20,
+            "category": "Cigarette"
+        },
+        {
+            "id": 13,
+            "name": "Cat",
+            "price": 10,
+            "category": "animal"
+        },
+        {
+            "id": 14,
+            "name": "Dog",
+            "price": 15,
+            "category": "animal"
+        },
+        {
+            "id": 15,
+            "name": "Cow",
+            "price": 20,
+            "category": "animal"
+        },
+        {
+            "id": 16,
+            "name": "Pig",
+            "price": 10,
+            "category": "animalA"
+        },
+        {
+            "id": 17,
+            "name": "Elephant",
+            "price": 15,
+            "category": "animal"
+        },
+        { "id": 18, "name": "Product 3", "price": 20, "category": "Category A" }
+    ]
+}
