@@ -1,11 +1,9 @@
-import { configureStore } from "@reduxjs/toolkit";
-import modalReducer from "./modalSlice";
-import pokemonReducer from "./pokeSlice";
+import { configureStore } from '@reduxjs/toolkit';
+import productsReducer from './productsSlice';
 const store = configureStore({
-  reducer: {
-    pokemon: pokemonReducer,
-    modal: modalReducer,
-  },
+    reducer: {
+        products: productsReducer,
+    },
 });
 
 export default store;
