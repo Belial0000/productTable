@@ -31,31 +31,93 @@
             "id": 13,
             "name": "Cat",
             "price": 10,
-            "category": "animals"
+            "category": "Animals"
         },
         {
             "id": 14,
             "name": "Dog",
             "price": 15,
-            "category": "animals"
+            "category": "Animals"
         },
         {
             "id": 15,
             "name": "Cow",
             "price": 20,
-            "category": "animals"
+            "category": "Animals"
         },
         {
             "id": 16,
             "name": "Pig",
             "price": 10,
-            "category": "animalA"
+            "category": "Animals"
         },
         {
             "id": 17,
             "name": "Elephant",
             "price": 15,
-            "category": "animals"
-        }
+            "category": "Animals"
+        },
+        { "id": 18, "name": "Potatoes", "price": 8, "category": "Food" },
+        { "id": 19, "name": "Chicken", "price": 12, "category": "Food" },
+        { "id": 20, "name": "Rice", "price": 9, "category": "Food" },
+        {
+            "id": 21,
+            "name": "Machine Gun",
+            "price": 100,
+            "category": "Weapons"
+        },
+        { "id": 22, "name": "Dagger", "price": 18, "category": "Weapons" },
+        { "id": 23, "name": "Bread", "price": 4, "category": "Food" },
+        { "id": 24, "name": "Revolver", "price": 35, "category": "Weapons" },
+        { "id": 25, "name": "Spoon", "price": 2, "category": "Kitchen" },
+        { "id": 26, "name": "Fork", "price": 2, "category": "Kitchen" },
+        { "id": 27, "name": "Tomatoes", "price": 10, "category": "Food" },
+        { "id": 28, "name": "Cabbage", "price": 5, "category": "Food" },
+        { "id": 29, "name": "Soccer Ball", "price": 15, "category": "Sports" },
+        { "id": 30, "name": "Basketball", "price": 20, "category": "Sports" },
+        { "id": 31, "name": "Laptop", "price": 500, "category": "Electronics" },
+        { "id": 32, "name": "T-shirt", "price": 10, "category": "Clothing" },
+        { "id": 33, "name": "Hat", "price": 8, "category": "Clothing" },
+        { "id": 34, "name": "Chair", "price": 40, "category": "Furniture" },
+        { "id": 35, "name": "Table", "price": 70, "category": "Furniture" },
+        { "id": 36, "name": "Shampoo", "price": 10, "category": "Beauty" },
+        { "id": 37, "name": "Toothbrush", "price": 3, "category": "Beauty" },
+        { "id": 38, "name": "Book", "price": 12, "category": "Books" },
+        {
+            "id": 39,
+            "name": "Headphones",
+            "price": 30,
+            "category": "Electronics"
+        },
+        { "id": 40, "name": "Backpack", "price": 25, "category": "Bags" },
+        {
+            "id": 41,
+            "name": "Guitar",
+            "price": 80,
+            "category": "Musical Instruments"
+        },
+        { "id": 42, "name": "Dumbbells", "price": 20, "category": "Sports" },
+        {
+            "id": 43,
+            "name": "Television",
+            "price": 300,
+            "category": "Electronics"
+        },
+        { "id": 44, "name": "Socks", "price": 5, "category": "Clothing" },
+        {
+            "id": 45,
+            "name": "Desk Lamp",
+            "price": 15,
+            "category": "Home Decor"
+        },
+        { "id": 46, "name": "Perfume", "price": 25, "category": "Beauty" },
+        {
+            "id": 47,
+            "name": "Alarm Clock",
+            "price": 10,
+            "category": "Electronics"
+        },
+        { "id": 48, "name": "Bike Helmet", "price": 20, "category": "Sports" },
+        { "id": 49, "name": "Lipstick", "price": 8, "category": "Beauty" }
     ]
 }

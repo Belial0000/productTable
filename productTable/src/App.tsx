@@ -1,18 +1,18 @@
-import { useEffect } from 'react';
-import { useAppDispatch, useAppSelector } from './hook';
-import { fetchProducts } from './store/productsSlice';
+import List from './components/List/List';
+import Filter from './components/Filter/Filter';
+
+import { Container } from '@mui/material';
+import styles from './app.module.scss';
 
 function App() {
-    const dispatch = useAppDispatch();
-    useEffect(() => {
-        // повторный запрос если меняется лимит и очистка
-        dispatch(fetchProducts());
-    }, [dispatch]);
-
-    const productsData = useAppSelector((state) => state.products);
-    console.log(productsData);
-
-    return <></>;
+    return (
+        <div className={styles.App}>
+            <Container>
+                <Filter />
+                <List />
+            </Container>
+        </div>
+    );
 }
 
 export default App;
